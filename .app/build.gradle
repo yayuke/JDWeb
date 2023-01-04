@@ -23,7 +23,7 @@ android {
         minSdkVersion 21
         targetSdkVersion 31
         versionCode 3
-        versionName "1.1.3"
+        versionName "1.1.4"
 
         testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner"
         manifestPlaceholders = [APP_NAME: '京东ck获取'] // 配置主包的应用名称
